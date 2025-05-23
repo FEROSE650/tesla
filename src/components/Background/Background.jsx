@@ -1,8 +1,8 @@
 import './Background.css'
-import tesla from '../../Assets/tesla.mp4'
-import image1 from '../../Assets/image1.png'
-import image2 from '../../Assets/image2.png'
-import image3 from '../../Assets/image3.png'
+import tesla from '../../assets/tesla.mp4'
+import image1 from '../../assets/image1.png'
+import image2 from '../../assets/image2.png'
+import image3 from '../../assets/image3.png'
 import React, { useEffect, useRef, useState } from 'react'
 
 const images = [image1, image2, image3];
