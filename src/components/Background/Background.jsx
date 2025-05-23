@@ -1,4 +1,4 @@
-import './background.css'
+import './Background.css'
 import tesla from '../../Assets/tesla.mp4'
 import image1 from '../../Assets/image1.png'
 import image2 from '../../Assets/image2.png'
