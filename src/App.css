@@ -1,0 +1,21 @@
+.app {
+  min-height: 100vh;
+  width: 100vw;
+  position: relative;
+  overflow-x: hidden;
+  font-family: 'Montserrat', Arial, sans-serif;
+  background: #111;
+}
+
+/* Optional: Make sure all content is above the background */
+.app > * {
+  position: relative;
+  z-index: 2;
+}
+
+/* Remove default margin/padding */
+body, html {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
