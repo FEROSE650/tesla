@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import Navbar from './components/Navbar/Navbar';
 import Hero from './components/Hero/Hero';
-import Background from './components/background/background';
+import Background from './components/Background/Background';
 import Model from './components/Hero/pages/Model';
 import History from './components/Hero/pages/History';
 import Discover from './components/Hero/pages/Discover';
